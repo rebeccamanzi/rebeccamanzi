@@ -7,9 +7,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Rebecca and I'm a front-end developer.
+My name is Rebecca and I'm front-end developer.
 
- 💙 In love with JavaScript
- 🌱 Currently learning Vue.js and Angular
- 😄 Also UI Designer 
- ⚡ I have a project (@codepwr on instagram) with tips for beginners and support for women in technology
+ - 💙 In love with JavaScript
+ - 🌱 Currently learning Vue.js and Angular
+ - 😄 Also UI Designer 
+ - ⚡ I have a project (@codepwr on instagram) with tips for beginners and support for women in technology
