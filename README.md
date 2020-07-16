@@ -1,8 +1,8 @@
-# I'm Rebecca Manzi :woman_technologist:
+# Rebecca Manzi :woman_technologist:
 
-### 👋 Welcome to my profile
+### Hello! 👋 Welcome to my profile
 
-I'm front-end developer and UI/UX Design.
+I'm front-end developer and UI/UX Designer
 
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Quasar, Node.js
  - 💙 In love with Front-end
