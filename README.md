@@ -1,6 +1,6 @@
 # I'm Rebecca Manzi :woman_technologist:
 
-### Hellooo! 👋 Welcome to my profile
+### 👋 Welcome to my profile
 
 I'm front-end developer and UI/UX Design.
 
