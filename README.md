@@ -2,7 +2,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
-I'm front-end developer and UI/UX Designer
+I'm front-end developer and UI/UX designer
 
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Quasar, Node.js
  - 💙 In love with Front-end
