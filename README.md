@@ -2,9 +2,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
-I'm front-end developer and UI/UX designer
-
- - 💙 In love with Front-end
+ - 💙 In love with Front-end and design
  - ⚡ @codepwr on instagram: tips for beginners and support for women in technology
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js
  - 📚 Currently learning Vue.js and React
