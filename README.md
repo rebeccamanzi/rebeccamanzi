@@ -4,7 +4,7 @@
 
  - 💙 In love with Front-end and design
  - ⚡ @codepwr on instagram: tips for beginners and support for women in technology
- - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js
+ - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#
  - 📚 Currently learning Vue.js and React
  - 😄 In my free time I usually play games, draw, watch series and do yoga
  
