@@ -1,14 +1,15 @@
 # Rebecca Manzi :woman_technologist:
 
-### Hello! 👋 Welcome to my profile
+### @codepwr on instagram: tips for beginners and support for women in technology
 
- - 💙 In love with Front-end and design
- - ⚡ @codepwr on instagram: tips for beginners and support for women in technology
- - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#
- - 📚 Currently learning Vue.js and React
- - 😄 In my free time I usually play games, draw, watch series and do yoga
+- 🏝 I'm from Recife, Brazil
+- 💜 Passionate about front-end and design
+- 🛤 Venturing into the back-end
+- 📚 Currently learning C# and .NET
+- 😄 I speak English and Portuguese
+- 🕹 I my free time I like to play games, watch series and exercise
  
- 
+ - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#, Figma
  ----
 
 [![Github Badge](https://img.shields.io/badge/-rebeccamanzi-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rebeccamanzi)](https://github.com/rebeccamanzi)
