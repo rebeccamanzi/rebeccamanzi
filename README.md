@@ -7,7 +7,7 @@
 - 🛤 Venturing into the back-end
 - 📚 Currently learning C# and .NET
 - 😄 I speak English and Portuguese
-- 🕹 I my free time I like to play games, watch series and exercise
+- 🕹 In my free time I like to play games, watch series and exercise
  
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#, Figma
  ----
