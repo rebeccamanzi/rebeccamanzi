@@ -5,7 +5,7 @@
 - 🏝 I'm from Recife, Brazil
 - 💜 Passionate about front-end and design
 - 🛤 Venturing into the back-end
-- 📚 Currently learning C# and .NET
+- 📚 Currently learning .NET and Angular
 - 😄 I speak English and Portuguese
 - 🕹 In my free time I like to play games, watch series and exercise
  
