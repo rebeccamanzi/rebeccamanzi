@@ -9,7 +9,7 @@
 - 😄 I speak English and Portuguese
 - 🕹 In my free time I like to play games, watch series and exercise
  
- - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#, Figma, SQL, .NET
+ - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Vue.js, Quasar, Node.js, C#, Figma, SQL, .NET, TypeScript
  ----
 
 [![Github Badge](https://img.shields.io/badge/-rebeccamanzi-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rebeccamanzi)](https://github.com/rebeccamanzi)
