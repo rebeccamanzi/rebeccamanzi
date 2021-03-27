@@ -5,7 +5,7 @@
  <img src="https://i.ibb.co/w75shzG/Stuck-at-Home-Sitting-On-Floor.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### Welcome to my github repo!
- <ul>
+ <ul align="left">
   <li> 🏝 I'm from Recife, Brazil </li>
   <li> 💜 Passionate about front-end and design </li>
   <li> 🛤 Venturing into the back-end </li>
