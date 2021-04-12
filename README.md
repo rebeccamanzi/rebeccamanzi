@@ -5,7 +5,7 @@
 
 <div align="center">
  
- <img src="https://i.ibb.co/w75shzG/Stuck-at-Home-Sitting-On-Floor.png" min-width="300px" max-width="300px" width="300px" align="right">
+ <img src="https://i.ibb.co/s26jSQp/We-Are-Women-Bust.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <h3 align=left> Welcome to my github repo! </h3>
  <ul align="left">
