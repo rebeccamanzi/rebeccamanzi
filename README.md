@@ -12,9 +12,9 @@
   <li> 🏝 I'm from Recife, Brazil </li>
   <li> 💜 Passionate about front-end and design </li>
   <li> 🛤 Venturing into the back-end </li>
-  <li> 📚 Currently learning MongoDB, Angular, Serverless and .NET </li>
+  <li> 📚 Currently improving my knowledge in .NET, Entity, SQL and Angular </li>
   <li> 😄 I speak English and Portuguese </li>
-  <li> 🕹 In my free time I like to play games, watch series, play guitar, cook and exercise </li>
+  <li> 🕹 In my free time I like to play LOL, watch series, cook and exercise </li>
  </ul>
 
 </div>
