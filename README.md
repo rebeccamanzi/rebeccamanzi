@@ -40,7 +40,7 @@
 ## 🛠 💻 Technologies & Tools
 
 <p>
- HTML, CSS, JavaScript, C#, .NET, Entity Framework, Angular, MySQL, SQL Server, Oracle, MongoDB, SQLite, Node, React, Vue, Quasar, jQuery, TypeScript, Express, BootStrap, NPM, YARN, Azure, TypeORM, Jest, Oracle, SQL Server, SQLite, MySQL, Postgres
+ HTML, CSS, JavaScript, C#, .NET, Entity Framework, Angular, MySQL, SQL Server, Oracle, MongoDB, SQLite, Node, React, Vue, Quasar, jQuery, TypeScript, Express, BootStrap, NPM, YARN, Azure, TypeORM, Jest
 </p>
 
 ## Coding Activity
