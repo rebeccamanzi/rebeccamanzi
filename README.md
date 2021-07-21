@@ -10,7 +10,7 @@
    <li> 🏝 I'm from Recife, Brazil </li>
    <li> 💜 Passionate about front-end and design </li>
    <li> 🛤 Venturing into the back-end </li>
-   <li> 📚 Currently improving my knowledge in .NET, Entity, SQL and Angular </li>
+   <li> 📚 Currently improving my knowledge in .NET, Entity, SQL and Java </li>
    <li> 😄 I speak English and Portuguese </li>
    <li> 🕹 In my free time I like to play LOL, watch series, cook and exercise </li>
   </ul>
