@@ -31,8 +31,6 @@
 </p>
 
  ## Code Power Project
-
-<img src="https://i.ibb.co/dmBC0yR/We-Are-Women-Power.png" min-width="100px" max-width="200px" width="150px" align="left">
 <p align="right"> 
  <p> Unfortunately, the gap between technology professional men and women is huge, and even greater in leadership positions. <p>
  <p> So I have a project on Instagram (@codepwr) where I share tips on technology and encourage the growth of women in the area. <p>
