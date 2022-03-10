@@ -18,14 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebeccamanzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamanzi&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-
-## 🛠 Main Technologies
-
-<p>
- HTML, CSS, JavaScript, C#, .NET, SQL Server, Oracle, MongoDB, Node, React, TypeScript, BootStrap, Java, Angular, Spring Boot.
-</p>
  
- ##Where to find me
+ ## Where to find me
  
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rebeccamanzi/)
 [![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rebeccamanzi)](https://github.com/rebeccamanzi)
