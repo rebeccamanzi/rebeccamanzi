@@ -2,13 +2,6 @@
 
 <div align="center">
  <h3 align=left> Welcome to my github repo! </h3>
-  <ul align="left">
-   <li> 🏝 I'm from Recife, Brazil </li>
-   <li> 💜 Passionate about front-end and design </li>
-   <li> 🛤 Venturing into the back-end </li>
-   <li> 📚 Currently improving my knowledge in Java and Spring Boot </li>
-   <li> 😄 I speak English and Portuguese </li>
-  </ul>
 </div>
 
 ## Coding Activity
