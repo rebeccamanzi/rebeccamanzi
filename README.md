@@ -1,4 +1,4 @@
-# Hey, its Rebecca Manzi :woman_technologist:
+# Hey, you 👻
 
 <div align="center">
  <h3 align=left> Welcome to my github repo! </h3>
