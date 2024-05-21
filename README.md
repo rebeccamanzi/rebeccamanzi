@@ -11,6 +11,7 @@ I'm a self-taught person who changed careers in 2020 (from business to technolog
 🎧 Love almost all types of music, especially Lofi, R&B, MPB and Techno <br>
 🌱 Everyday is a learning opportunity <br>
 🔧 Tools: VSCode, Visual Studio, Insomnia, Postman, Github Actions, Azure DevOps
+🎯 Goal: #100DaysOfCode
 
 ### Metrics
 
