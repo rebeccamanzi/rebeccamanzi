@@ -10,7 +10,7 @@ I'm a self-taught person who changed careers in 2020 (from business to technolog
 🏝️ Live in Recife, Brazil <br>
 🎧 Love almost all types of music, especially Lofi, R&B, MPB and Techno <br>
 🌱 Everyday is a learning opportunity <br>
-🔧 Tools: VSCode, Visual Studio, Insomnia, Postman, Github Actions, Azure DevOps
+🔧 Tools: VSCode, Visual Studio, Insomnia, Postman, Github Actions, Azure DevOps <br>
 🎯 Goal: #100DaysOfCode
 
 ### Metrics
