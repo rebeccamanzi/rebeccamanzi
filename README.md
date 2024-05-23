@@ -21,7 +21,7 @@ I'm a self-taught person who changed careers in 2020 (from business to technolog
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rebeccamanzi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
- <div style="flex">
+ <div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebeccamanzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamanzi&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
 <div>
