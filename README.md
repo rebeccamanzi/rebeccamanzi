@@ -1,19 +1,23 @@
 
 ## Hello World! 👋🏻👋🏻
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,azure,cs,dotnet,nodejs,git,github,)](https://skillicons.dev)
-
-I am a Fullstack Developer currently working and focused on .NET and Angular. I also appreciate and have worked with Javascript, Typescript, React, and Node. I have experience with databases and cloud, and it's something I want to go deeper into.
+I am a Fullstack Developer currently working and focused on .NET and Angular. I also appreciate and have worked with Javascript, Typescript, React, Node, SQL and Cloud (AWS/Azure).
 
 I'm a self-taught person who changed careers in 2020 (from business to technology). I have a degree in Business Administration and am doing a Postgraduate Degree in Software and Solutions Architecture. What I love about the development area is being able to use my creativity and logical reasoning to solve problems.
 
 🏝️ Live in Recife, Brazil <br>
 🎧 Love almost all types of music, especially Lofi, R&B, MPB and Techno <br>
 🌱 Everyday is a learning opportunity <br>
-🔧 Tools: VSCode, Visual Studio, Insomnia, Postman, Github Actions, Azure DevOps <br>
-🎯 Goal: #100DaysOfCode
+🏃🏻‍♀️ Trying to have a fitness life <br>
+🎞️ In my free time I love watching series and films, and reading books <br>
+🎮 Eventually I play a little LoL and do puzzles <br>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,azure,aws,cs,dotnet,nodejs,git,github,vscode,postman)](https://skillicons.dev)
 
 ### Metrics
+🎯 Goal: #100DaysOfCode
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rebeccamanzi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
