@@ -3,7 +3,7 @@
 
 I am a Fullstack Developer currently working and focused on .NET and Angular. I also appreciate and have worked with Javascript, Typescript, React, Node, SQL and Cloud (AWS/Azure).
 
-I'm a self-taught person who changed careers in 2020 (from business to technology). I have a degree in Business Administration and am doing a Postgraduate Degree in Software and Solutions Architecture. What I love about the development area is being able to use my creativity and logical reasoning to solve problems.
+I did a career transition in 2020 (from business to technology). I have a degree in Business Administration and am doing a Postgraduate Degree in Software and Solutions Architecture. What I love about the development area is being able to use my creativity and logical reasoning to solve problems.
 
 🏝️ Live in Recife, Brazil <br>
 🎧 Love almost all types of music, especially Lofi, R&B, MPB and Techno <br>
